@@ -1,9 +1,5 @@
 /*
-<<<<<<< HEAD
-Edits zum test
-=======
-Edit zum testen
->>>>>>> origin/master
+Edits zum testen
   AnalogReadSerial abgewandelt
   Für die Steuerung einer Lichtschranke mit FT:
   - mit weiss an +5V
