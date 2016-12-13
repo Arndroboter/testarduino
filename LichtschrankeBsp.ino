@@ -1,4 +1,5 @@
 /*
+Edit zum test
   AnalogReadSerial abgewandelt
   Für die Steuerung einer Lichtschranke mit FT:
   - mit weiss an +5V
